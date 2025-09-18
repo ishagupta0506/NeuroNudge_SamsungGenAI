@@ -67,15 +67,16 @@ streamlit run app.py
 * `README.md` — Project overview and setup guide
 * `requirements.txt` — Python dependencies
 * `.streamlit/` — Streamlit configuration files
-* `TeamName.pdf` — Supplementary file (Team MIND Q)
+* `MindQ.pdf` — Supplementary file (Team MIND Q)
 * `app.py` (or main script) — Core Streamlit app
 
 ---
 
 ## Submissions
 
-* **Video demo:** \[Add YouTube/Drive link here]
-* **Report file:** `TeamName.pdf` (included in repo root)
+* **Video demo:** \https://drive.google.com/file/d/1AX27Ls8rTRxRhwEcF828_egy3Qkps0aR/view?usp=sharing
+* **Report file:** `TeamName.pdf` (included in repo root) 
+                    Drive link: https://drive.google.com/file/d/1pDdZ57rlNNU93h4WAELRUNYLgPbQzcx9/view?usp=sharing
 
 ---
 
