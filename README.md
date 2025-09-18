@@ -35,7 +35,6 @@ Our aim is to provide a compassionate, adaptive focus companion that empowers us
    git clone https://github.com/ishagupta0506/NeuroNudge_SamsungGenAI.git
    cd NeuroNudge_SamsungGenAI
 
-````
 
 2. Create and activate a virtual environment:
 
@@ -73,7 +72,7 @@ streamlit run app.py
 
 ---
 
-##  Submissions
+## Submissions
 
 * **Video demo:** \[Add YouTube/Drive link here]
 * **Report file:** `TeamName.pdf` (included in repo root)
@@ -104,6 +103,6 @@ streamlit run app.py
 
 ## License
 
-MIT License 
-```
+MIT License
 
+```
