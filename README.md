@@ -119,4 +119,3 @@ streamlit run app.py
 
 MIT License
 
-```
