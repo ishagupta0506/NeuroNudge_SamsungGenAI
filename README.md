@@ -51,6 +51,18 @@ Our aim is to provide a compassionate, adaptive focus companion that empowers us
    ```
 
 ---
+## API Keys Setup
+
+This project requires API keys (OpenAI) to function.
+
+Create a file named .env in the project root.
+
+Add your keys in the following format:
+```bash
+OPENAI_API_KEY=your_openai_api_key_here
+```
+Do not commit .env to GitHub. Ensure .env is included in .gitignore.
+The app will automatically read keys from environment variables.
 
 ## Usage
 
