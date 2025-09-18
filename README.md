@@ -75,8 +75,9 @@ streamlit run app.py
 ## Submissions
 
 * **Video demo:** https://drive.google.com/file/d/1AX27Ls8rTRxRhwEcF828_egy3Qkps0aR/view?usp=sharing
-* **Report file:** `TeamName.pdf` (included in repo root) 
-                    Drive link: https://drive.google.com/file/d/1pDdZ57rlNNU93h4WAELRUNYLgPbQzcx9/view?usp=sharing
+* **Report file:** `MindQ.pdf` (included in repo root) 
+
+  Drive link: https://drive.google.com/file/d/1pDdZ57rlNNU93h4WAELRUNYLgPbQzcx9/view?usp=sharing
 
 ---
 
